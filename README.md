@@ -10,8 +10,8 @@ There are four notebooks with useful stuff in preparation for the Gaia Sprint.
 
 4. [TGAS+APOGEE](TGAS-APOGEE.ipynb) --  sample from Sanders & Binney EDF using the plate-by-plate APOGEE selection function (i.e. uniform in H between limits obtained from Bovy code). The TGAS+APOGEE selection function is then estimated by dividing the TGAS+APOGEE sample by APOGEE in the H-band and applied to the mocks. This doesn't work so well as the selection function obviously haas significant color dependence from TGAS.
 
-All the distance files used can be found [here](www.ast.cam.ac.uk/~jls/distances/).
+All the distance files used can be found [here](http://www.ast.cam.ac.uk/~jls/distances/).
 
-All the action files used can be found [here](www.ast.cam.ac.uk/~jls/actions/).
+All the action files used can be found [here](http://www.ast.cam.ac.uk/~jls/actions/).
 
-All the EDF sample files used can be found [here](www.ast.cam.ac.uk/~jls/edf/).
+All the EDF sample files used can be found [here](http://www.ast.cam.ac.uk/~jls/edf/).
